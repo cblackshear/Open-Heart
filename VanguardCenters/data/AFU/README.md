@@ -1,7 +1,11 @@
-# Frequently Asked Questions (FAQ)
+# About the Programs
 
-**Where did the old AFUlong and AFODcomb datasets go?**
-> The AFUlong dataset now encompasses the `AFODcomb` dataset. The variable `VERS` indicates which form data come from: A, B, C, D, E, OA, OB, OC, or OD. 
+# About the Data
+
+## Frequently Asked Questions (FAQ)
+
+**Where did the old `AFUlong` and `AFODcomb` datasets go?**
+> The `AFUlong` dataset now encompasses the `AFODcomb` dataset. The variable `VERS` indicates which form data come from: A, B, C, D, E, OA, OB, OC, or OD. 
 
 ---
 
