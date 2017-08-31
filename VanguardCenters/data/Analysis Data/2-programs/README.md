@@ -1,5 +1,5 @@
 # Introduction
-These programs are used to create the CCDC’s derived variables for participants at each exam visit. Descriptions of variables contained in the analysis datasets are available in the Analysis Data Dictionary **(INSERT LINK)**.
+These programs are used to create the CCDC’s derived variables for participants at each exam visit. Descriptions of variables contained in the analysis datasets are available in the [Analysis Data Dictionary](https://docs.google.com/spreadsheets/d/1xAoVWFYKDURl6PUCy5y32ffUUFv54ytZ8H1YuCx9LO4/edit?usp=sharing).
 
 - **analysis1**: these programs are used to create the CCDC’s derived variables for participants at exam visit 1.
 - **analysis2**: these programs are used to create the CCDC’s derived variables for participants at exam visit 2.
