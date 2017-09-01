@@ -6,8 +6,8 @@ These programs are used to create the CCDC’s derived variables for participant
   - **validation1**, **validation2**, and **validation3** programs are used to perform QC 
 
 - Longitudinal variables for participants across all visits:
-  - A [long-form dataset](https://github.com/cblackshear/Open-Heart/wiki/Frequently-Asked-Questions-%28FAQ%29/_edit#what-is-a-long-form-data-set "multiple observations per participant – one per visit"), [`analysisLong`](https://www.jacksonheartstudy.org/Portals/0/pdf/analysislong.pdf "All-Exam (Long-Form) Codebook"), is compiled from the cross-sectional datasets created above
-  - A [wide-form dataset](https://github.com/cblackshear/Open-Heart/wiki/Frequently-Asked-Questions-%28FAQ%29/_edit#what-is-a-wide-format-data-set "one observation per participant where the variables reflect a single visit"), [`analysisWide`](https://www.jacksonheartstudy.org/Portals/0/pdf/analysiswide.pdf "All-Exam (Wide-Form) Codebook"), is compiled by transposing the long-form data.
+  - A [long-form](https://github.com/cblackshear/Open-Heart/wiki/Frequently-Asked-Questions-%28FAQ%29/_edit#what-is-a-long-form-data-set "multiple observations per participant – one per visit"), [`analysisLong`](https://www.jacksonheartstudy.org/Portals/0/pdf/analysislong.pdf "All-Exam (Long-Form) Codebook") dataset, is compiled from the cross-sectional datasets created above
+  - A [wide-form](https://github.com/cblackshear/Open-Heart/wiki/Frequently-Asked-Questions-%28FAQ%29/_edit#what-is-a-wide-format-data-set "one observation per participant where the variables reflect a single visit") dataset, [`analysisWide`](https://www.jacksonheartstudy.org/Portals/0/pdf/analysiswide.pdf "All-Exam (Wide-Form) Codebook"), is compiled by transposing the long-form data.
 
 # How to Use
 The `0-0 RUNanalyses` file runs the other programs for creation of the analysis datasets.
