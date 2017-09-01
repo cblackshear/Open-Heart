@@ -15,4 +15,6 @@ The `0-0 RUNanalyses` file runs the other programs for creation of the analysis 
 # Frequently Asked Questions (FAQ)
 
 **How are the analysis datasets derived?**
-> Variables that have been derived by the JHS CCDC are added to the analysis datasets. Documentation of these datasets is available in the [Analysis Data Dictionary](https://docs.google.com/spreadsheets/d/1xAoVWFYKDURl6PUCy5y32ffUUFv54ytZ8H1YuCx9LO4/edit?usp=sharing). This analysis data dictionary gives the description and definition of the derived variables as well as the “raw” variables the derivation utilizes. References for definitions, when available, are listed in the “reference” column of the data dictionary.
+> Variables are carefully constructed while working in direct collaboration with substantive area experts. Upon completion the CCDC curates the reproducible code, documentation, and resulting data in the distributed data package, when appropriate. 
+> 
+> Documentation of these datasets are available online in the [Analysis Data Dictionary](https://docs.google.com/spreadsheets/d/1xAoVWFYKDURl6PUCy5y32ffUUFv54ytZ8H1YuCx9LO4/edit?usp=sharing). This analysis data dictionary gives the description and definition of the derived variables as well as the “raw” variables the derivation utilizes. References for definitions, when available, are made readily-available in the data dictionary as well.
