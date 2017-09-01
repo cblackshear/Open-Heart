@@ -2,11 +2,13 @@
 These programs are used to create the CCDC’s derived variables for participants at each exam visit. Descriptions of variables contained in the analysis datasets are available in the [Analysis Data Dictionary](https://docs.google.com/spreadsheets/d/1xAoVWFYKDURl6PUCy5y32ffUUFv54ytZ8H1YuCx9LO4/edit?usp=sharing).
 
 - **analysis1**, **analysis2**, and **analysis3** programs are used to create the CCDC’s derived cross-sectional variables for participants at [exam visit 1](https://www.jacksonheartstudy.org/Portals/0/pdf/analysis1.pdf "Exam Visit 1 Codebook"), [exam visit 2](https://www.jacksonheartstudy.org/Portals/0/pdf/analysis2.pdf "Exam Visit 2 Codebook"), and [exam visit 3](https://www.jacksonheartstudy.org/Portals/0/pdf/analysis3.pdf "Exam Visit 3 Codebook"), respectively.
-- **analysisLong** programs are used to create a [long-form dataset]( "multiple observations per participant – one per visit") of the CCDC's derived variables for participants across all visits. 
+
+- **validation1**, **validation2**, and **validation3** programs are used to perform QC on the CCDC’s derived variables for participants at [exam visit 1](https://www.jacksonheartstudy.org/Portals/0/pdf/analysis1.pdf "Exam Visit 1 Codebook"), [exam visit 2](https://www.jacksonheartstudy.org/Portals/0/pdf/analysis2.pdf "Exam Visit 2 Codebook"), and [exam visit 3](https://www.jacksonheartstudy.org/Portals/0/pdf/analysis3.pdf "Exam Visit 3 Codebook"), respectively.
+
+- **analysisLong** programs are used to create a [long-form dataset](https://github.com/cblackshear/Open-Heart/wiki/Frequently-Asked-Questions-%28FAQ%29/_edit#what-is-a-long-form-data-set "multiple observations per participant – one per visit") of the CCDC's derived variables for participants across all visits. 
+
 - **analysisWide**:	these programs are used to create a [wide-form dataset](https://github.com/cblackshear/Open-Heart/wiki/Frequently-Asked-Questions-%28FAQ%29/_edit#what-is-a-wide-format-data-set "one observation per participant where the variables reflect a single visit") of the CCDC's derived variables for participants across all visits.
-- **validation1**: these programs are used to perform QC on the CCDC’s derived variables for participants at exam visit 1.
-- **validation2**: these programs are used to perform QC on the CCDC’s derived variables for participants at exam visit 2.
-- **validation3**: these programs are used to perform QC on the CCDC’s derived variables for participants at exam visit 3.
+
 
 # How to Use
 The `0-0 RUNanalyses` file runs the other programs for creation of the analysis datasets.
