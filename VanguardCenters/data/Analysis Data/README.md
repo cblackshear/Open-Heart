@@ -13,7 +13,7 @@
 
 ---
 
-## How are the analysis data sets derived?**
+## How are the analysis data sets derived?
 > Variables are carefully constructed while working in direct collaboration with substantive area experts. Upon completion the CCDC curates the reproducible code, documentation, and resulting data in the distributed data package, when appropriate. 
 > 
 > Documentation of these datasets are available online in the [Analysis Data Dictionary](https://docs.google.com/spreadsheets/d/1xAoVWFYKDURl6PUCy5y32ffUUFv54ytZ8H1YuCx9LO4/edit?usp=sharing). This analysis data dictionary gives the description and definition of the derived variables as well as the “raw” variables the derivation utilizes. References for definitions, when available, are made readily-available in the data dictionary as well.
