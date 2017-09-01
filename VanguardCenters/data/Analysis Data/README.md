@@ -17,4 +17,4 @@
 > Documentation of these datasets are available online in the [Analysis Data Dictionary](https://docs.google.com/spreadsheets/d/1xAoVWFYKDURl6PUCy5y32ffUUFv54ytZ8H1YuCx9LO4/edit?usp=sharing). This analysis data dictionary gives the description and definition of the derived variables as well as the “raw” variables the derivation utilizes. References for definitions, when available, are made readily-available in the data dictionary as well.
 
 ## How do I use these programs?
-> The `0-0 RUNanalyses` file runs the other programs for creation of the analysis datasets. Simply change the 
+> The `0-0 RUNanalyses` file runs the other programs for creation of the analysis datasets. Simply change the [this line](https://github.com/cblackshear/Open-Heart/blob/354948810059c64320c7e78812d152369ec5465e/VanguardCenters/data/Analysis%20Data/2-programs/0-0-RUNanalyses.sas#L22)
