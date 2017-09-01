@@ -1,7 +1,7 @@
 # Introduction
 These programs are used to create the CCDC’s derived variables for participants at each exam visit. Descriptions of variables contained in the analysis datasets are available in the [Analysis Data Dictionary](https://docs.google.com/spreadsheets/d/1xAoVWFYKDURl6PUCy5y32ffUUFv54ytZ8H1YuCx9LO4/edit?usp=sharing).
 
-- Cross-Sectional variables for participants at [exam visit 1](https://www.jacksonheartstudy.org/Portals/0/pdf/analysis1.pdf "Exam Visit 1 Codebook"), [exam visit 2](https://www.jacksonheartstudy.org/Portals/0/pdf/analysis2.pdf "Exam Visit 2 Codebook"), and [exam visit 3](https://www.jacksonheartstudy.org/Portals/0/pdf/analysis3.pdf "Exam Visit 3 Codebook"), respectively.
+- Cross-Sectional variables for participants at [exam visit 1](https://www.jacksonheartstudy.org/Portals/0/pdf/analysis1.pdf "Exam Visit 1 Codebook"), [exam visit 2](https://www.jacksonheartstudy.org/Portals/0/pdf/analysis2.pdf "Exam Visit 2 Codebook"), and [exam visit 3](https://www.jacksonheartstudy.org/Portals/0/pdf/analysis3.pdf "Exam Visit 3 Codebook")
   - **analysis1**, **analysis2**, and **analysis3** programs are used to create the data
   - **validation1**, **validation2**, and **validation3** programs are used to perform QC on the 
 
