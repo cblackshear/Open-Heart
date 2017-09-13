@@ -5,7 +5,7 @@
 >
 > - Cross-Sectional variables for participants at [exam visit 1](https://www.jacksonheartstudy.org/Portals/0/pdf/analysis1.pdf "Exam Visit 1 Codebook"), [exam visit 2](https://www.jacksonheartstudy.org/Portals/0/pdf/analysis2.pdf "Exam Visit 2 Codebook"), and [exam visit 3](https://www.jacksonheartstudy.org/Portals/0/pdf/analysis3.pdf "Exam Visit 3 Codebook"):
 >   - **analysis1**, **analysis2**, and **analysis3** programs are used to create the analysis-ready data
->   - **validation1**, **validation2**, and **validation3** programs are used to perform QC on the prepared data
+>   - **[validation1](https://github.com/cblackshear/Open-Heart/tree/master/VanguardCenters/data/Analysis%20Data/3-results/validation1 "Exam Visit 1 EDA")**, **[validation2](https://github.com/cblackshear/Open-Heart/tree/master/VanguardCenters/data/Analysis%20Data/3-results/validation2 "Exam Visit 2 EDA")**, and **[validation3](https://github.com/cblackshear/Open-Heart/tree/master/VanguardCenters/data/Analysis%20Data/3-results/validation3 "Exam Visit 3 EDA")** programs are used to perform QC on the prepared data
 >
 > - Longitudinal variables for participants across all visits:
 >   - A [long-form](https://github.com/cblackshear/Open-Heart/wiki/Frequently-Asked-Questions-%28FAQ%29/_edit#what-is-a-long-form-data-set "multiple observations per participant – one per visit") dataset, [`analysisLong`](https://www.jacksonheartstudy.org/Portals/0/pdf/analysislong.pdf "All-Exam (Long-Form) Codebook"), is compiled by appending the cross-sectional datasets created above
