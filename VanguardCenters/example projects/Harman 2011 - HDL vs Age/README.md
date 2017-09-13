@@ -6,5 +6,5 @@
 ## Overview
 > This project provides an idea of the lifecycle of oa JHS manuscript from proposal to publication. Included are:
 > 1. [Manuscript proposal](https://github.com/cblackshear/Open-Heart/blob/master/VanguardCenters/example%20projects/Harman%202011%20-%20HDL%20vs%20Age/0-info/P0067%20Proposal.pdf "JHS MP") submitted to JHS  for review
-> 2. [Code](https://github.com/cblackshear/Open-Heart/blob/master/VanguardCenters/example%20projects/Harman%202011%20-%20HDL%20vs%20Age/2-programs/Harman%202011%20HDL%20vs%20Age%20-%20example%20code.sas "SAS Code") used to run analyses and generate tables/figures
+> 2. [Code](https://github.com/cblackshear/Open-Heart/blob/master/VanguardCenters/example%20projects/Harman%202011%20-%20HDL%20vs%20Age/2-programs/Harman%202011%20HDL%20vs%20Age%20-%20example%20code.sas "SAS Code") used to create [analytic data](https://github.com/cblackshear/Open-Heart/blob/master/VanguardCenters/example%20projects/Harman%202011%20-%20HDL%20vs%20Age/1-data/codebooks/datv1jhsnames.pdf), run analyses, and generate tables/figures
 > 3. [Reference to published paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3100667/ "PubMed")
