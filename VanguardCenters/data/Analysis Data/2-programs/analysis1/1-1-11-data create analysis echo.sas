@@ -71,8 +71,8 @@ data include; *Combine datasets and merge checking variables;
     format EF 3.0;
 
     *Variable: EF3cat;
-    if 55 <  EF       then EF3cat = 0;
-    if 40 <= EF <= 55 then EF3cat = 1;
+    if 55 <= EF       then EF3cat = 0;
+    if 40 <= EF <  55 then EF3cat = 1;
     if       EF <  40 then EF3cat = 2;
     if missing(EF)    then EF3cat = .;
 
